@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Listas</string>
+
+    <string-array name="colores">
+        <item>Azul</item>
+        <item>Amarillo</item>
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Violeta</item>
+        <item>Naranja</item>
+    </string-array>
+
+    <string-array name="dias">
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miercoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+        <item>Sabado</item>
+        <item>Domingo</item>
+    </string-array>
+</resources>
